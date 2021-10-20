@@ -1,3 +1,4 @@
+print('Olá, tudo blz?')
 nome = str(input('NOME: ')).capitalize()
 idade = int(input('IDADE:'))
 genero = str(input('GÊNERO:'))
